@@ -1,5 +1,4 @@
 **#SHARDEUM-TESTNET**
-<--------------------Network Details--------------------------------------->
 
 Network Name: Shardeum EVM Testnet
 
